@@ -18,7 +18,7 @@ async function main() {
 
   // GET
   try {
-    app.get('/referrals', async (req, res) => {
+    app.get('/halal-eateries', async (req, res) => {
       let result = await db.collection('details').find({}).toArray();
       res.send(result);
     });
