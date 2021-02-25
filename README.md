@@ -1,5 +1,11 @@
 # hal-eateries-api
 
+Academic Disclaimer: This API was created for academic purposes, and **should only be used** for academic purposes.
+
+## **It should never be used for any monetization purposes.**
+
+If there are objections from MUIS or any related Government agencies, please contact me directly and I can take down this API.
+
 This API is a list of all the Halal eateries in Singapore, taken from the MUIS website. Please note that this is a snapshot taken on 22/2/2021.
 
 Note:
