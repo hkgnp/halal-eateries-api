@@ -9,7 +9,7 @@ If there are objections from MUIS or any related Government agencies, please con
 This API is a list of all the Halal eateries in Singapore, taken from the MUIS website. Please note that this is a snapshot taken on 22/2/2021.
 
 Note:
-Name and address details are wrapped in <p> tags. Spaces were also taken out to facilitate processing of the JSON data. For more details on the web scrape, please refer to its [Github page](https://github.com/hkgnp/halal-eateries).
+Name and address details are wrapped in `<p>` tags. Spaces were also taken out to facilitate processing of the JSON data. For more details on the web scrape, please refer to its [Github page](https://github.com/hkgnp/halal-eateries).
 
 ### Endpoints
 
