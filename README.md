@@ -14,7 +14,7 @@ Name and address details are wrapped in `<p>` tags. Spaces were also taken out t
 ### Endpoints
 
 ```
-GET     https://desolate-temple-84704.herokuapp.com/
+GET     https://desolate-temple-84704.herokuapp.com/halal-eateries
 
 Results returned:
 {
